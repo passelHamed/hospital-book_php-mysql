@@ -1,0 +1,27 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #f7f7f7;
+}
+
+.home{
+    width: 60%;
+    height: 150%;
+    background-color: white;
+}
+
+
+.home img{
+    text-align: center;
+    background-color: transparent;
+}
+
+.home h1{
+    color :#008bcd;
+}
+
+.home .button{
+    background-color: #008bcd;
+}
+
